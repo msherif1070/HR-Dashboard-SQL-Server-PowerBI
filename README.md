@@ -1,6 +1,6 @@
 # HR-Dashboard-SQL Server-PowerBI
 
-![image](E:\Human Resources Project\Human Resources Dashboard.png)
+![image](Human Resources Dashboard.png)
 
 ## Data Used
 
